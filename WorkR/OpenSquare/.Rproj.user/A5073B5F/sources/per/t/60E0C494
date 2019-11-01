@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572585719539.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "177236303",
+    "id" : "60E0C494",
+    "lastKnownWriteTime" : 1572588993,
+    "last_content_update" : 1572588993783,
+    "path" : "~/2019DataGirlsDay/WorkR/OpenSquare/공유자전거대여현황.R",
+    "project_path" : "공유자전거대여현황.R",
+    "properties" : {
+        "cursorPosition" : "39,13",
+        "scrollLine" : "30",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
